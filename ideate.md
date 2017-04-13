@@ -1,20 +1,19 @@
 (ideate.md)
 # Design Challenges
 ## Problem Statement 1
-  - There arent enough cookies in the world
+  - Its difficult to buy and sell textbooks from other students on campus
 ## Solutions:
-- Build more cookie factories
-- Make your own cookies
-- pay someone to bake more cookies
-- dont share cookies
+- Create a marketplace for students
+- Work with the university
+- Use Amazon & Ebay to help facilitate it
 
 Constraint
-- Baking takes equipment and time
-- some people might be allergic
-- ingredients cost money
+- Students are hesitant
+- Price gouging
+- The bookstore might get peeved
+- Supply and Demand
 
 Context
-- cookies are desserts
-- Easy to carry
-- Cookies can crumble
-- Cookies make people happy
+- Everyone needs textbooks
+- Textbooks in the bookstore are really expensive
+- Cheaper to buy textbooks from past students
