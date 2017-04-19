@@ -2,19 +2,19 @@ storify.md
 
 # Audience Map
 
-##Directly Related to Idea:
+## Directly Related to Idea:
 - Students
 - Instructors/Professors
 - University Administration
 - DePaul Bookstore
 
-##Peripherally Related to Idea:
+## Peripherally Related to Idea:
 - Bookstore Employees
 - Textbook Companies
 - Students from other local universities
 - Online textbook retail companies
 
-##Fans / Critics
+## Fans / Critics
 Fans:
 - Students
 - Students from other local universities
@@ -37,4 +37,4 @@ Critics:
 
 
 # User Flow
-##Feature 1
+## Feature 1
