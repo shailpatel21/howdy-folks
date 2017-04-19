@@ -1,20 +1,20 @@
 storify.md
 
-## Audience Map
+# Audience Map
 
-#Directly Related to Idea:
+##Directly Related to Idea:
 - Students
 - Instructors/Professors
 - University Administration
 - DePaul Bookstore
 
-#Peripherally Related to Idea:
+##Peripherally Related to Idea:
 - Bookstore Employees
 - Textbook Companies
 - Students from other local universities
 - Online textbook retail companies
 
-#Fans / Critics
+##Fans / Critics
 Fans:
 - Students
 - Students from other local universities
@@ -25,7 +25,7 @@ Critics:
 - Textbook Companies
 - Online textbook retail companies
 
-## Personas
+# Personas
 ![College Student Persona](collegestudent.jpg)
 ![College Professor Persona](collegeprofessor.jpg)
 ![University Administrator](universityadministrator.jpg)
@@ -36,5 +36,5 @@ Critics:
 - 3) Price comparison tool; aggregates prices on the internet to determine fair value
 
 
-## User Flow
-# Feature 1
+# User Flow
+##Feature 1
