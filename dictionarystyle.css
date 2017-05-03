@@ -72,6 +72,7 @@ a:link, a:active, a:visited {
   color: white;
   text-align: center;
   text-decoration: none;
+  display: block;
 }
 
 .content {
